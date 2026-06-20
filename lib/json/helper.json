@@ -1,0 +1,204 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "title": "Pip's Lost Gear",
+      "story": "Once upon a time, a clever little robot named Pip lost his shiny blue gear in the Whispering Woods.",
+      "quiz": {
+        "question": "What colour was Pip's lost gear?",
+        "options": ["Red", "Green", "Blue", "Yellow"],
+        "answer": "Blue"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Luna and the Moon Flower",
+      "story": "Luna the rabbit found a glowing silver flower under the moonlight.",
+      "quiz": {
+        "question": "What did Luna find?",
+        "options": ["Golden Star", "Silver Flower", "Blue Rock", "Red Apple"],
+        "answer": "Silver Flower"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Max the Brave Lion",
+      "story": "Max the lion crossed a wooden bridge to help his friend.",
+      "quiz": {
+        "question": "What did Max cross?",
+        "options": ["River", "Tunnel", "Wooden Bridge", "Mountain"],
+        "answer": "Wooden Bridge"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Tina's Flying Kite",
+      "story": "Tina's bright yellow kite flew high above the green hills.",
+      "quiz": {
+        "question": "What colour was Tina's kite?",
+        "options": ["Blue", "Red", "Yellow", "Purple"],
+        "answer": "Yellow"
+      }
+    },
+    {
+      "id": 5,
+      "title": "The Magic Pencil",
+      "story": "Arjun found a magic pencil that could draw real animals.",
+      "quiz": {
+        "question": "What did Arjun find?",
+        "options": ["Magic Book", "Magic Pencil", "Magic Hat", "Magic Wand"],
+        "answer": "Magic Pencil"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Sam's Red Balloon",
+      "story": "Sam accidentally let go of his red balloon during the fair.",
+      "quiz": {
+        "question": "What colour was Sam's balloon?",
+        "options": ["Green", "Blue", "Red", "Pink"],
+        "answer": "Red"
+      }
+    },
+    {
+      "id": 7,
+      "title": "The Friendly Whale",
+      "story": "A giant blue whale guided the lost sailors back home.",
+      "quiz": {
+        "question": "Who helped the sailors?",
+        "options": ["Dolphin", "Whale", "Shark", "Octopus"],
+        "answer": "Whale"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Nina's New Shoes",
+      "story": "Nina wore sparkling purple shoes to the school festival.",
+      "quiz": {
+        "question": "What colour were Nina's shoes?",
+        "options": ["Purple", "Yellow", "Orange", "White"],
+        "answer": "Purple"
+      }
+    },
+    {
+      "id": 9,
+      "title": "The Lost Puppy",
+      "story": "Ravi found a tiny brown puppy near the park gate.",
+      "quiz": {
+        "question": "What animal did Ravi find?",
+        "options": ["Kitten", "Rabbit", "Puppy", "Bird"],
+        "answer": "Puppy"
+      }
+    },
+    {
+      "id": 10,
+      "title": "The Golden Key",
+      "story": "Meera discovered a golden key hidden beneath an old tree.",
+      "quiz": {
+        "question": "What did Meera discover?",
+        "options": ["Treasure", "Map", "Golden Key", "Ring"],
+        "answer": "Golden Key"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Rocket to Mars",
+      "story": "Leo dreamed of riding a rocket all the way to Mars.",
+      "quiz": {
+        "question": "Where did Leo want to go?",
+        "options": ["Moon", "Mars", "Jupiter", "Venus"],
+        "answer": "Mars"
+      }
+    },
+    {
+      "id": 12,
+      "title": "The Singing Bird",
+      "story": "A tiny bird sang beautiful songs every morning.",
+      "quiz": {
+        "question": "Who sang songs?",
+        "options": ["Cat", "Bird", "Dog", "Rabbit"],
+        "answer": "Bird"
+      }
+    },
+    {
+      "id": 13,
+      "title": "The Snowman",
+      "story": "Anaya built a snowman with a carrot nose.",
+      "quiz": {
+        "question": "What was the snowman's nose made of?",
+        "options": ["Apple", "Stick", "Carrot", "Stone"],
+        "answer": "Carrot"
+      }
+    },
+    {
+      "id": 14,
+      "title": "The Secret Cave",
+      "story": "Kabir found a hidden cave behind a waterfall.",
+      "quiz": {
+        "question": "Where was the cave?",
+        "options": ["Mountain", "Forest", "Waterfall", "Beach"],
+        "answer": "Waterfall"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Milo's Bicycle",
+      "story": "Milo rode his green bicycle through the village.",
+      "quiz": {
+        "question": "What colour was Milo's bicycle?",
+        "options": ["Green", "Blue", "Red", "Black"],
+        "answer": "Green"
+      }
+    },
+    {
+      "id": 16,
+      "title": "The Tiny Dragon",
+      "story": "A tiny dragon learned to breathe warm sparks instead of fire.",
+      "quiz": {
+        "question": "What could the dragon breathe?",
+        "options": ["Smoke", "Water", "Sparks", "Ice"],
+        "answer": "Sparks"
+      }
+    },
+    {
+      "id": 17,
+      "title": "The Pirate's Map",
+      "story": "A pirate found an old map leading to hidden treasure.",
+      "quiz": {
+        "question": "What did the map lead to?",
+        "options": ["Castle", "Village", "Treasure", "Ship"],
+        "answer": "Treasure"
+      }
+    },
+    {
+      "id": 18,
+      "title": "The Clever Fox",
+      "story": "A clever fox solved the puzzle before anyone else.",
+      "quiz": {
+        "question": "Who solved the puzzle?",
+        "options": ["Bear", "Fox", "Wolf", "Rabbit"],
+        "answer": "Fox"
+      }
+    },
+    {
+      "id": 19,
+      "title": "The Rainbow Garden",
+      "story": "Children planted flowers that bloomed in every colour of the rainbow.",
+      "quiz": {
+        "question": "What did the children plant?",
+        "options": ["Trees", "Flowers", "Grass", "Seeds"],
+        "answer": "Flowers"
+      }
+    },
+    {
+      "id": 20,
+      "title": "The Moon Adventure",
+      "story": "Sara imagined bouncing across the moon with her robot friend.",
+      "quiz": {
+        "question": "Where did Sara imagine going?",
+        "options": ["Mars", "Moon", "Earth", "Saturn"],
+        "answer": "Moon"
+      }
+    }
+  ]
+}
